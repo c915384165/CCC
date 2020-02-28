@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.c
+print_day.h
+/Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.h
+
+/Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.c
+is_leap_year.h
+/Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.h
+
+/Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.h
+stdio.h
+-
+

@@ -1,0 +1,26 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ccc.dir/basic/foo.c.o"
+  "CMakeFiles/ccc.dir/basic/lines.c.o"
+  "CMakeFiles/ccc.dir/basic/return.c.o"
+  "CMakeFiles/ccc.dir/chapter_1/hello_world.c.o"
+  "CMakeFiles/ccc.dir/chapter_2/assignment.c.o"
+  "CMakeFiles/ccc.dir/chapter_3/function_basic.c.o"
+  "CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o"
+  "CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o"
+  "CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o"
+  "CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o"
+  "CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o"
+  "CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o"
+  "CMakeFiles/ccc.dir/chapter_5/circle_area.c.o"
+  "CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o"
+  "CMakeFiles/ccc.dir/main.c.o"
+  "CMakeFiles/ccc.dir/struct/complex.c.o"
+  "CMakeFiles/ccc.dir/struct/complex2.c.o"
+  "ccc"
+  "ccc.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/ccc.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
