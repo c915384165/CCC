@@ -43,9 +43,21 @@ CMakeFiles/ccc.dir/chapter_5/circle_area.c.o
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o
  /Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.c
  /Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.h
+CMakeFiles/ccc.dir/chapter_6/break_continue.c.o
+ /Users/mac/CLionProjects/ccc/chapter_6/break_continue.c
+ /Users/mac/CLionProjects/ccc/chapter_6/break_continue.h
+CMakeFiles/ccc.dir/chapter_6/do_while.c.o
+ /Users/mac/CLionProjects/ccc/chapter_6/do_while.c
+ /Users/mac/CLionProjects/ccc/chapter_6/do_while.h
+CMakeFiles/ccc.dir/chapter_6/for_for.c.o
+ /Users/mac/CLionProjects/ccc/chapter_6/for_for.c
+ /Users/mac/CLionProjects/ccc/chapter_6/for_for.h
+CMakeFiles/ccc.dir/chapter_6/while.c.o
+ /Users/mac/CLionProjects/ccc/chapter_6/while.c
+ /Users/mac/CLionProjects/ccc/chapter_6/while.h
 CMakeFiles/ccc.dir/main.c.o
  /Users/mac/CLionProjects/ccc/chapter_3/function_basic.h
- /Users/mac/CLionProjects/ccc/chapter_4/if_else_if/get_unit.h
+ /Users/mac/CLionProjects/ccc/chapter_6/for_for.h
  /Users/mac/CLionProjects/ccc/main.c
 CMakeFiles/ccc.dir/struct/complex.c.o
  /Users/mac/CLionProjects/ccc/struct/complex.c

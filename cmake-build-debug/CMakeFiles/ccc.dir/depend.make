@@ -43,8 +43,20 @@ CMakeFiles/ccc.dir/chapter_5/circle_area.c.o: ../chapter_5/circle_area.h
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o: ../chapter_5/is_leap_year.c
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o: ../chapter_5/is_leap_year.h
 
+CMakeFiles/ccc.dir/chapter_6/break_continue.c.o: ../chapter_6/break_continue.c
+CMakeFiles/ccc.dir/chapter_6/break_continue.c.o: ../chapter_6/break_continue.h
+
+CMakeFiles/ccc.dir/chapter_6/do_while.c.o: ../chapter_6/do_while.c
+CMakeFiles/ccc.dir/chapter_6/do_while.c.o: ../chapter_6/do_while.h
+
+CMakeFiles/ccc.dir/chapter_6/for_for.c.o: ../chapter_6/for_for.c
+CMakeFiles/ccc.dir/chapter_6/for_for.c.o: ../chapter_6/for_for.h
+
+CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.c
+CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.h
+
 CMakeFiles/ccc.dir/main.c.o: ../chapter_3/function_basic.h
-CMakeFiles/ccc.dir/main.c.o: ../chapter_4/if_else_if/get_unit.h
+CMakeFiles/ccc.dir/main.c.o: ../chapter_6/for_for.h
 CMakeFiles/ccc.dir/main.c.o: ../main.c
 
 CMakeFiles/ccc.dir/struct/complex.c.o: ../struct/complex.c

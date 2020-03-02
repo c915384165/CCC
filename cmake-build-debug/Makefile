@@ -501,6 +501,114 @@ chapter_5/is_leap_year.c.s:
 	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.s
 .PHONY : chapter_5/is_leap_year.c.s
 
+chapter_6/break_continue.o: chapter_6/break_continue.c.o
+
+.PHONY : chapter_6/break_continue.o
+
+# target to build an object file
+chapter_6/break_continue.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/break_continue.c.o
+.PHONY : chapter_6/break_continue.c.o
+
+chapter_6/break_continue.i: chapter_6/break_continue.c.i
+
+.PHONY : chapter_6/break_continue.i
+
+# target to preprocess a source file
+chapter_6/break_continue.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/break_continue.c.i
+.PHONY : chapter_6/break_continue.c.i
+
+chapter_6/break_continue.s: chapter_6/break_continue.c.s
+
+.PHONY : chapter_6/break_continue.s
+
+# target to generate assembly for a file
+chapter_6/break_continue.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/break_continue.c.s
+.PHONY : chapter_6/break_continue.c.s
+
+chapter_6/do_while.o: chapter_6/do_while.c.o
+
+.PHONY : chapter_6/do_while.o
+
+# target to build an object file
+chapter_6/do_while.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/do_while.c.o
+.PHONY : chapter_6/do_while.c.o
+
+chapter_6/do_while.i: chapter_6/do_while.c.i
+
+.PHONY : chapter_6/do_while.i
+
+# target to preprocess a source file
+chapter_6/do_while.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/do_while.c.i
+.PHONY : chapter_6/do_while.c.i
+
+chapter_6/do_while.s: chapter_6/do_while.c.s
+
+.PHONY : chapter_6/do_while.s
+
+# target to generate assembly for a file
+chapter_6/do_while.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/do_while.c.s
+.PHONY : chapter_6/do_while.c.s
+
+chapter_6/for_for.o: chapter_6/for_for.c.o
+
+.PHONY : chapter_6/for_for.o
+
+# target to build an object file
+chapter_6/for_for.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/for_for.c.o
+.PHONY : chapter_6/for_for.c.o
+
+chapter_6/for_for.i: chapter_6/for_for.c.i
+
+.PHONY : chapter_6/for_for.i
+
+# target to preprocess a source file
+chapter_6/for_for.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/for_for.c.i
+.PHONY : chapter_6/for_for.c.i
+
+chapter_6/for_for.s: chapter_6/for_for.c.s
+
+.PHONY : chapter_6/for_for.s
+
+# target to generate assembly for a file
+chapter_6/for_for.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/for_for.c.s
+.PHONY : chapter_6/for_for.c.s
+
+chapter_6/while.o: chapter_6/while.c.o
+
+.PHONY : chapter_6/while.o
+
+# target to build an object file
+chapter_6/while.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/while.c.o
+.PHONY : chapter_6/while.c.o
+
+chapter_6/while.i: chapter_6/while.c.i
+
+.PHONY : chapter_6/while.i
+
+# target to preprocess a source file
+chapter_6/while.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/while.c.i
+.PHONY : chapter_6/while.c.i
+
+chapter_6/while.s: chapter_6/while.c.s
+
+.PHONY : chapter_6/while.s
+
+# target to generate assembly for a file
+chapter_6/while.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/while.c.s
+.PHONY : chapter_6/while.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -633,6 +741,18 @@ help:
 	@echo "... chapter_5/is_leap_year.o"
 	@echo "... chapter_5/is_leap_year.i"
 	@echo "... chapter_5/is_leap_year.s"
+	@echo "... chapter_6/break_continue.o"
+	@echo "... chapter_6/break_continue.i"
+	@echo "... chapter_6/break_continue.s"
+	@echo "... chapter_6/do_while.o"
+	@echo "... chapter_6/do_while.i"
+	@echo "... chapter_6/do_while.s"
+	@echo "... chapter_6/for_for.o"
+	@echo "... chapter_6/for_for.i"
+	@echo "... chapter_6/for_for.s"
+	@echo "... chapter_6/while.o"
+	@echo "... chapter_6/while.i"
+	@echo "... chapter_6/while.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

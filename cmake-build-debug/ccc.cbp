@@ -162,6 +162,30 @@
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.h">
 			<Option target="ccc"/>
 		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/break_continue.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/break_continue.h">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/do_while.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/do_while.h">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/for_for.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/for_for.h">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/while.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/while.h">
+			<Option target="ccc"/>
+		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/main.c">
 			<Option target="ccc"/>
 		</Unit>
