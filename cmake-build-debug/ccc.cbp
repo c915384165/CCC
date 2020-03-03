@@ -186,6 +186,12 @@
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/while.h">
 			<Option target="ccc"/>
 		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/random.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/random.h">
+			<Option target="ccc"/>
+		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/main.c">
 			<Option target="ccc"/>
 		</Unit>

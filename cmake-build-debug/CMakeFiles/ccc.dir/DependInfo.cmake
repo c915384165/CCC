@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/mac/CLionProjects/ccc/chapter_6/do_while.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/chapter_6/do_while.c.o"
   "/Users/mac/CLionProjects/ccc/chapter_6/for_for.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/chapter_6/for_for.c.o"
   "/Users/mac/CLionProjects/ccc/chapter_6/while.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/chapter_6/while.c.o"
+  "/Users/mac/CLionProjects/ccc/chapter_8/random.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/chapter_8/random.c.o"
   "/Users/mac/CLionProjects/ccc/main.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/main.c.o"
   "/Users/mac/CLionProjects/ccc/struct/complex.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/struct/complex.c.o"
   "/Users/mac/CLionProjects/ccc/struct/complex2.c" "/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/struct/complex2.c.o"

@@ -609,6 +609,33 @@ chapter_6/while.c.s:
 	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/while.c.s
 .PHONY : chapter_6/while.c.s
 
+chapter_8/random.o: chapter_8/random.c.o
+
+.PHONY : chapter_8/random.o
+
+# target to build an object file
+chapter_8/random.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/random.c.o
+.PHONY : chapter_8/random.c.o
+
+chapter_8/random.i: chapter_8/random.c.i
+
+.PHONY : chapter_8/random.i
+
+# target to preprocess a source file
+chapter_8/random.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/random.c.i
+.PHONY : chapter_8/random.c.i
+
+chapter_8/random.s: chapter_8/random.c.s
+
+.PHONY : chapter_8/random.s
+
+# target to generate assembly for a file
+chapter_8/random.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/random.c.s
+.PHONY : chapter_8/random.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -753,6 +780,9 @@ help:
 	@echo "... chapter_6/while.o"
 	@echo "... chapter_6/while.i"
 	@echo "... chapter_6/while.s"
+	@echo "... chapter_8/random.o"
+	@echo "... chapter_8/random.i"
+	@echo "... chapter_8/random.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

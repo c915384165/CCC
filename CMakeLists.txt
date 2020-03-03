@@ -30,4 +30,4 @@ file(GLOB SOURCES
         basic/return.c
         basic/return.h
         )
-add_executable(ccc main.c ${SOURCE_FILES} ${SOURCES} chapter_1/hello_world.c chapter_1/hello_world.h chapter_2/assignment.c chapter_2/assignment.h chapter_3/function_basic.c chapter_3/function_basic.h chapter_6/while.c chapter_6/while.h chapter_6/do_while.c chapter_6/do_while.h chapter_6/break_continue.c chapter_6/break_continue.h chapter_6/for_for.c chapter_6/for_for.h)
+add_executable(ccc main.c ${SOURCE_FILES} ${SOURCES} chapter_1/hello_world.c chapter_1/hello_world.h chapter_2/assignment.c chapter_2/assignment.h chapter_3/function_basic.c chapter_3/function_basic.h chapter_6/while.c chapter_6/while.h chapter_6/do_while.c chapter_6/do_while.h chapter_6/break_continue.c chapter_6/break_continue.h chapter_6/for_for.c chapter_6/for_for.h chapter_8/random.c chapter_8/random.h)

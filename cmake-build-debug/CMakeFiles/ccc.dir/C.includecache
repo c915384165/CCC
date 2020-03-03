@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/mac/CLionProjects/ccc/chapter_6/for_for.c
-for_for.h
-/Users/mac/CLionProjects/ccc/chapter_6/for_for.h
+/Users/mac/CLionProjects/ccc/chapter_8/random.c
+random.h
+/Users/mac/CLionProjects/ccc/chapter_8/random.h
 
-/Users/mac/CLionProjects/ccc/chapter_6/for_for.h
+/Users/mac/CLionProjects/ccc/chapter_8/random.h
 stdio.h
+-
+stdlib.h
 -
 

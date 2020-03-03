@@ -17,6 +17,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ccc.dir/chapter_6/do_while.c.o"
   "CMakeFiles/ccc.dir/chapter_6/for_for.c.o"
   "CMakeFiles/ccc.dir/chapter_6/while.c.o"
+  "CMakeFiles/ccc.dir/chapter_8/random.c.o"
   "CMakeFiles/ccc.dir/main.c.o"
   "CMakeFiles/ccc.dir/struct/complex.c.o"
   "CMakeFiles/ccc.dir/struct/complex2.c.o"
