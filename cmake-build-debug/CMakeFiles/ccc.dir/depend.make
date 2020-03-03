@@ -55,6 +55,9 @@ CMakeFiles/ccc.dir/chapter_6/for_for.c.o: ../chapter_6/for_for.h
 CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.c
 CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.h
 
+CMakeFiles/ccc.dir/chapter_8/random.c.o: ../chapter_8/random.c
+CMakeFiles/ccc.dir/chapter_8/random.c.o: ../chapter_8/random.h
+
 CMakeFiles/ccc.dir/main.c.o: ../chapter_3/function_basic.h
 CMakeFiles/ccc.dir/main.c.o: ../chapter_6/for_for.h
 CMakeFiles/ccc.dir/main.c.o: ../main.c
