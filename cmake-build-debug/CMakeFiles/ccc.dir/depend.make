@@ -60,6 +60,7 @@ CMakeFiles/ccc.dir/chapter_8/random.c.o: ../chapter_8/random.h
 
 CMakeFiles/ccc.dir/main.c.o: ../chapter_3/function_basic.h
 CMakeFiles/ccc.dir/main.c.o: ../chapter_6/for_for.h
+CMakeFiles/ccc.dir/main.c.o: ../chapter_8/random.h
 CMakeFiles/ccc.dir/main.c.o: ../main.c
 
 CMakeFiles/ccc.dir/struct/complex.c.o: ../struct/complex.c

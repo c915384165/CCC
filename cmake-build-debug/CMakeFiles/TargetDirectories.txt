@@ -1,3 +1,3 @@
-/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir
+/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir

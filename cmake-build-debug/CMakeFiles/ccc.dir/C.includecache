@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/mac/CLionProjects/ccc/chapter_8/random.c
+/Users/macpro/CLionProjects/ccc/chapter_8/random.c
 random.h
-/Users/mac/CLionProjects/ccc/chapter_8/random.h
+/Users/macpro/CLionProjects/ccc/chapter_8/random.h
 
-/Users/mac/CLionProjects/ccc/chapter_8/random.h
+/Users/macpro/CLionProjects/ccc/chapter_8/random.h
 stdio.h
 -
 stdlib.h

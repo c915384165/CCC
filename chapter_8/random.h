@@ -8,6 +8,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define N 20
 
+
+void printf_random();
+void gen_random(int upper_bound, int add_bound);
+int run_random_main(void);
 #endif //CCC_RANDOM_H

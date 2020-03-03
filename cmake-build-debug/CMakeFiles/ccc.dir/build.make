@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/mac/CLionProjects/ccc
+CMAKE_SOURCE_DIR = /Users/macpro/CLionProjects/ccc
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/mac/CLionProjects/ccc/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/macpro/CLionProjects/ccc/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ccc.dir/depend.make
@@ -59,289 +59,289 @@ include CMakeFiles/ccc.dir/flags.make
 
 CMakeFiles/ccc.dir/main.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ccc.dir/main.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/main.c.o   -c /Users/mac/CLionProjects/ccc/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ccc.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/main.c.o   -c /Users/macpro/CLionProjects/ccc/main.c
 
 CMakeFiles/ccc.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/main.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/main.c > CMakeFiles/ccc.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/main.c > CMakeFiles/ccc.dir/main.c.i
 
 CMakeFiles/ccc.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/main.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/main.c -o CMakeFiles/ccc.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/main.c -o CMakeFiles/ccc.dir/main.c.s
 
 CMakeFiles/ccc.dir/basic/foo.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/basic/foo.c.o: ../basic/foo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ccc.dir/basic/foo.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/basic/foo.c.o   -c /Users/mac/CLionProjects/ccc/basic/foo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ccc.dir/basic/foo.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/basic/foo.c.o   -c /Users/macpro/CLionProjects/ccc/basic/foo.c
 
 CMakeFiles/ccc.dir/basic/foo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/basic/foo.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/basic/foo.c > CMakeFiles/ccc.dir/basic/foo.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/basic/foo.c > CMakeFiles/ccc.dir/basic/foo.c.i
 
 CMakeFiles/ccc.dir/basic/foo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/basic/foo.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/basic/foo.c -o CMakeFiles/ccc.dir/basic/foo.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/basic/foo.c -o CMakeFiles/ccc.dir/basic/foo.c.s
 
 CMakeFiles/ccc.dir/basic/lines.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/basic/lines.c.o: ../basic/lines.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ccc.dir/basic/lines.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/basic/lines.c.o   -c /Users/mac/CLionProjects/ccc/basic/lines.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ccc.dir/basic/lines.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/basic/lines.c.o   -c /Users/macpro/CLionProjects/ccc/basic/lines.c
 
 CMakeFiles/ccc.dir/basic/lines.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/basic/lines.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/basic/lines.c > CMakeFiles/ccc.dir/basic/lines.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/basic/lines.c > CMakeFiles/ccc.dir/basic/lines.c.i
 
 CMakeFiles/ccc.dir/basic/lines.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/basic/lines.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/basic/lines.c -o CMakeFiles/ccc.dir/basic/lines.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/basic/lines.c -o CMakeFiles/ccc.dir/basic/lines.c.s
 
 CMakeFiles/ccc.dir/basic/return.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/basic/return.c.o: ../basic/return.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ccc.dir/basic/return.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/basic/return.c.o   -c /Users/mac/CLionProjects/ccc/basic/return.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ccc.dir/basic/return.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/basic/return.c.o   -c /Users/macpro/CLionProjects/ccc/basic/return.c
 
 CMakeFiles/ccc.dir/basic/return.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/basic/return.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/basic/return.c > CMakeFiles/ccc.dir/basic/return.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/basic/return.c > CMakeFiles/ccc.dir/basic/return.c.i
 
 CMakeFiles/ccc.dir/basic/return.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/basic/return.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/basic/return.c -o CMakeFiles/ccc.dir/basic/return.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/basic/return.c -o CMakeFiles/ccc.dir/basic/return.c.s
 
 CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o: ../chapter_4/branch/factorial.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o   -c /Users/mac/CLionProjects/ccc/chapter_4/branch/factorial.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_4/branch/factorial.c
 
 CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_4/branch/factorial.c > CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_4/branch/factorial.c > CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.i
 
 CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_4/branch/factorial.c -o CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_4/branch/factorial.c -o CMakeFiles/ccc.dir/chapter_4/branch/factorial.c.s
 
 CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o: ../chapter_4/branch/gcd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o   -c /Users/mac/CLionProjects/ccc/chapter_4/branch/gcd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_4/branch/gcd.c
 
 CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_4/branch/gcd.c > CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_4/branch/gcd.c > CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.i
 
 CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_4/branch/gcd.c -o CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_4/branch/gcd.c -o CMakeFiles/ccc.dir/chapter_4/branch/gcd.c.s
 
 CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o: ../chapter_4/branch/loop.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o   -c /Users/mac/CLionProjects/ccc/chapter_4/branch/loop.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/loop.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_4/branch/loop.c
 
 CMakeFiles/ccc.dir/chapter_4/branch/loop.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_4/branch/loop.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_4/branch/loop.c > CMakeFiles/ccc.dir/chapter_4/branch/loop.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_4/branch/loop.c > CMakeFiles/ccc.dir/chapter_4/branch/loop.c.i
 
 CMakeFiles/ccc.dir/chapter_4/branch/loop.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_4/branch/loop.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_4/branch/loop.c -o CMakeFiles/ccc.dir/chapter_4/branch/loop.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_4/branch/loop.c -o CMakeFiles/ccc.dir/chapter_4/branch/loop.c.s
 
 CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o: ../chapter_4/branch/print_day.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o   -c /Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_4/branch/print_day.c
 
 CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.c > CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_4/branch/print_day.c > CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.i
 
 CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.c -o CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_4/branch/print_day.c -o CMakeFiles/ccc.dir/chapter_4/branch/print_day.c.s
 
 CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o: ../chapter_4/branch/rational.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o   -c /Users/mac/CLionProjects/ccc/chapter_4/branch/rational.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/branch/rational.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_4/branch/rational.c
 
 CMakeFiles/ccc.dir/chapter_4/branch/rational.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_4/branch/rational.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_4/branch/rational.c > CMakeFiles/ccc.dir/chapter_4/branch/rational.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_4/branch/rational.c > CMakeFiles/ccc.dir/chapter_4/branch/rational.c.i
 
 CMakeFiles/ccc.dir/chapter_4/branch/rational.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_4/branch/rational.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_4/branch/rational.c -o CMakeFiles/ccc.dir/chapter_4/branch/rational.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_4/branch/rational.c -o CMakeFiles/ccc.dir/chapter_4/branch/rational.c.s
 
 CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o: ../chapter_4/if_else_if/get_unit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o   -c /Users/mac/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c
 
 CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c > CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c > CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.i
 
 CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c -o CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c -o CMakeFiles/ccc.dir/chapter_4/if_else_if/get_unit.c.s
 
 CMakeFiles/ccc.dir/chapter_5/circle_area.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_5/circle_area.c.o: ../chapter_5/circle_area.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/ccc.dir/chapter_5/circle_area.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_5/circle_area.c.o   -c /Users/mac/CLionProjects/ccc/chapter_5/circle_area.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/ccc.dir/chapter_5/circle_area.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_5/circle_area.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_5/circle_area.c
 
 CMakeFiles/ccc.dir/chapter_5/circle_area.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_5/circle_area.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_5/circle_area.c > CMakeFiles/ccc.dir/chapter_5/circle_area.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_5/circle_area.c > CMakeFiles/ccc.dir/chapter_5/circle_area.c.i
 
 CMakeFiles/ccc.dir/chapter_5/circle_area.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_5/circle_area.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_5/circle_area.c -o CMakeFiles/ccc.dir/chapter_5/circle_area.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_5/circle_area.c -o CMakeFiles/ccc.dir/chapter_5/circle_area.c.s
 
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o: ../chapter_5/is_leap_year.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o   -c /Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_5/is_leap_year.c
 
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.c > CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_5/is_leap_year.c > CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.i
 
 CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.c -o CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_5/is_leap_year.c -o CMakeFiles/ccc.dir/chapter_5/is_leap_year.c.s
 
 CMakeFiles/ccc.dir/struct/complex.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/struct/complex.c.o: ../struct/complex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/ccc.dir/struct/complex.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/struct/complex.c.o   -c /Users/mac/CLionProjects/ccc/struct/complex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/ccc.dir/struct/complex.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/struct/complex.c.o   -c /Users/macpro/CLionProjects/ccc/struct/complex.c
 
 CMakeFiles/ccc.dir/struct/complex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/struct/complex.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/struct/complex.c > CMakeFiles/ccc.dir/struct/complex.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/struct/complex.c > CMakeFiles/ccc.dir/struct/complex.c.i
 
 CMakeFiles/ccc.dir/struct/complex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/struct/complex.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/struct/complex.c -o CMakeFiles/ccc.dir/struct/complex.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/struct/complex.c -o CMakeFiles/ccc.dir/struct/complex.c.s
 
 CMakeFiles/ccc.dir/struct/complex2.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/struct/complex2.c.o: ../struct/complex2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/ccc.dir/struct/complex2.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/struct/complex2.c.o   -c /Users/mac/CLionProjects/ccc/struct/complex2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/ccc.dir/struct/complex2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/struct/complex2.c.o   -c /Users/macpro/CLionProjects/ccc/struct/complex2.c
 
 CMakeFiles/ccc.dir/struct/complex2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/struct/complex2.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/struct/complex2.c > CMakeFiles/ccc.dir/struct/complex2.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/struct/complex2.c > CMakeFiles/ccc.dir/struct/complex2.c.i
 
 CMakeFiles/ccc.dir/struct/complex2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/struct/complex2.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/struct/complex2.c -o CMakeFiles/ccc.dir/struct/complex2.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/struct/complex2.c -o CMakeFiles/ccc.dir/struct/complex2.c.s
 
 CMakeFiles/ccc.dir/chapter_1/hello_world.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_1/hello_world.c.o: ../chapter_1/hello_world.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/ccc.dir/chapter_1/hello_world.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_1/hello_world.c.o   -c /Users/mac/CLionProjects/ccc/chapter_1/hello_world.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/ccc.dir/chapter_1/hello_world.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_1/hello_world.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_1/hello_world.c
 
 CMakeFiles/ccc.dir/chapter_1/hello_world.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_1/hello_world.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_1/hello_world.c > CMakeFiles/ccc.dir/chapter_1/hello_world.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_1/hello_world.c > CMakeFiles/ccc.dir/chapter_1/hello_world.c.i
 
 CMakeFiles/ccc.dir/chapter_1/hello_world.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_1/hello_world.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_1/hello_world.c -o CMakeFiles/ccc.dir/chapter_1/hello_world.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_1/hello_world.c -o CMakeFiles/ccc.dir/chapter_1/hello_world.c.s
 
 CMakeFiles/ccc.dir/chapter_2/assignment.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_2/assignment.c.o: ../chapter_2/assignment.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/ccc.dir/chapter_2/assignment.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_2/assignment.c.o   -c /Users/mac/CLionProjects/ccc/chapter_2/assignment.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/ccc.dir/chapter_2/assignment.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_2/assignment.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_2/assignment.c
 
 CMakeFiles/ccc.dir/chapter_2/assignment.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_2/assignment.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_2/assignment.c > CMakeFiles/ccc.dir/chapter_2/assignment.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_2/assignment.c > CMakeFiles/ccc.dir/chapter_2/assignment.c.i
 
 CMakeFiles/ccc.dir/chapter_2/assignment.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_2/assignment.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_2/assignment.c -o CMakeFiles/ccc.dir/chapter_2/assignment.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_2/assignment.c -o CMakeFiles/ccc.dir/chapter_2/assignment.c.s
 
 CMakeFiles/ccc.dir/chapter_3/function_basic.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_3/function_basic.c.o: ../chapter_3/function_basic.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/ccc.dir/chapter_3/function_basic.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_3/function_basic.c.o   -c /Users/mac/CLionProjects/ccc/chapter_3/function_basic.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/ccc.dir/chapter_3/function_basic.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_3/function_basic.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_3/function_basic.c
 
 CMakeFiles/ccc.dir/chapter_3/function_basic.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_3/function_basic.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_3/function_basic.c > CMakeFiles/ccc.dir/chapter_3/function_basic.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_3/function_basic.c > CMakeFiles/ccc.dir/chapter_3/function_basic.c.i
 
 CMakeFiles/ccc.dir/chapter_3/function_basic.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_3/function_basic.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_3/function_basic.c -o CMakeFiles/ccc.dir/chapter_3/function_basic.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_3/function_basic.c -o CMakeFiles/ccc.dir/chapter_3/function_basic.c.s
 
 CMakeFiles/ccc.dir/chapter_6/while.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/ccc.dir/chapter_6/while.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/while.c.o   -c /Users/mac/CLionProjects/ccc/chapter_6/while.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/ccc.dir/chapter_6/while.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/while.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_6/while.c
 
 CMakeFiles/ccc.dir/chapter_6/while.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_6/while.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_6/while.c > CMakeFiles/ccc.dir/chapter_6/while.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_6/while.c > CMakeFiles/ccc.dir/chapter_6/while.c.i
 
 CMakeFiles/ccc.dir/chapter_6/while.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_6/while.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_6/while.c -o CMakeFiles/ccc.dir/chapter_6/while.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_6/while.c -o CMakeFiles/ccc.dir/chapter_6/while.c.s
 
 CMakeFiles/ccc.dir/chapter_6/do_while.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_6/do_while.c.o: ../chapter_6/do_while.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/ccc.dir/chapter_6/do_while.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/do_while.c.o   -c /Users/mac/CLionProjects/ccc/chapter_6/do_while.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/ccc.dir/chapter_6/do_while.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/do_while.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_6/do_while.c
 
 CMakeFiles/ccc.dir/chapter_6/do_while.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_6/do_while.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_6/do_while.c > CMakeFiles/ccc.dir/chapter_6/do_while.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_6/do_while.c > CMakeFiles/ccc.dir/chapter_6/do_while.c.i
 
 CMakeFiles/ccc.dir/chapter_6/do_while.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_6/do_while.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_6/do_while.c -o CMakeFiles/ccc.dir/chapter_6/do_while.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_6/do_while.c -o CMakeFiles/ccc.dir/chapter_6/do_while.c.s
 
 CMakeFiles/ccc.dir/chapter_6/break_continue.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_6/break_continue.c.o: ../chapter_6/break_continue.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/ccc.dir/chapter_6/break_continue.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/break_continue.c.o   -c /Users/mac/CLionProjects/ccc/chapter_6/break_continue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/ccc.dir/chapter_6/break_continue.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/break_continue.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_6/break_continue.c
 
 CMakeFiles/ccc.dir/chapter_6/break_continue.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_6/break_continue.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_6/break_continue.c > CMakeFiles/ccc.dir/chapter_6/break_continue.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_6/break_continue.c > CMakeFiles/ccc.dir/chapter_6/break_continue.c.i
 
 CMakeFiles/ccc.dir/chapter_6/break_continue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_6/break_continue.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_6/break_continue.c -o CMakeFiles/ccc.dir/chapter_6/break_continue.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_6/break_continue.c -o CMakeFiles/ccc.dir/chapter_6/break_continue.c.s
 
 CMakeFiles/ccc.dir/chapter_6/for_for.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_6/for_for.c.o: ../chapter_6/for_for.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/ccc.dir/chapter_6/for_for.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/for_for.c.o   -c /Users/mac/CLionProjects/ccc/chapter_6/for_for.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/ccc.dir/chapter_6/for_for.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_6/for_for.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_6/for_for.c
 
 CMakeFiles/ccc.dir/chapter_6/for_for.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_6/for_for.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_6/for_for.c > CMakeFiles/ccc.dir/chapter_6/for_for.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_6/for_for.c > CMakeFiles/ccc.dir/chapter_6/for_for.c.i
 
 CMakeFiles/ccc.dir/chapter_6/for_for.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_6/for_for.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_6/for_for.c -o CMakeFiles/ccc.dir/chapter_6/for_for.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_6/for_for.c -o CMakeFiles/ccc.dir/chapter_6/for_for.c.s
 
 CMakeFiles/ccc.dir/chapter_8/random.c.o: CMakeFiles/ccc.dir/flags.make
 CMakeFiles/ccc.dir/chapter_8/random.c.o: ../chapter_8/random.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/ccc.dir/chapter_8/random.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_8/random.c.o   -c /Users/mac/CLionProjects/ccc/chapter_8/random.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/ccc.dir/chapter_8/random.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_8/random.c.o   -c /Users/macpro/CLionProjects/ccc/chapter_8/random.c
 
 CMakeFiles/ccc.dir/chapter_8/random.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_8/random.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_8/random.c > CMakeFiles/ccc.dir/chapter_8/random.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/macpro/CLionProjects/ccc/chapter_8/random.c > CMakeFiles/ccc.dir/chapter_8/random.c.i
 
 CMakeFiles/ccc.dir/chapter_8/random.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_8/random.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_8/random.c -o CMakeFiles/ccc.dir/chapter_8/random.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/macpro/CLionProjects/ccc/chapter_8/random.c -o CMakeFiles/ccc.dir/chapter_8/random.c.s
 
 # Object files for target ccc
 ccc_OBJECTS = \
@@ -395,7 +395,7 @@ ccc: CMakeFiles/ccc.dir/chapter_6/for_for.c.o
 ccc: CMakeFiles/ccc.dir/chapter_8/random.c.o
 ccc: CMakeFiles/ccc.dir/build.make
 ccc: CMakeFiles/ccc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable ccc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable ccc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ccc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -408,6 +408,6 @@ CMakeFiles/ccc.dir/clean:
 .PHONY : CMakeFiles/ccc.dir/clean
 
 CMakeFiles/ccc.dir/depend:
-	cd /Users/mac/CLionProjects/ccc/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/mac/CLionProjects/ccc /Users/mac/CLionProjects/ccc /Users/mac/CLionProjects/ccc/cmake-build-debug /Users/mac/CLionProjects/ccc/cmake-build-debug /Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/macpro/CLionProjects/ccc/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/macpro/CLionProjects/ccc /Users/macpro/CLionProjects/ccc /Users/macpro/CLionProjects/ccc/cmake-build-debug /Users/macpro/CLionProjects/ccc/cmake-build-debug /Users/macpro/CLionProjects/ccc/cmake-build-debug/CMakeFiles/ccc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ccc.dir/depend
 

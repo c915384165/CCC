@@ -8,206 +8,206 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/mac/CLionProjects/ccc/cmake-build-debug"/>
+				<Option working_dir="/Users/macpro/CLionProjects/ccc/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/mac/CLionProjects/ccc/cmake-build-debug"/>
+				<Option working_dir="/Users/macpro/CLionProjects/ccc/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/mac/CLionProjects/ccc/cmake-build-debug"/>
+				<Option working_dir="/Users/macpro/CLionProjects/ccc/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ccc">
-				<Option output="/Users/mac/CLionProjects/ccc/cmake-build-debug/ccc" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/mac/CLionProjects/ccc/cmake-build-debug"/>
+				<Option output="/Users/macpro/CLionProjects/ccc/cmake-build-debug/ccc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macpro/CLionProjects/ccc/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 ccc"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 ccc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ccc/fast">
-				<Option output="/Users/mac/CLionProjects/ccc/cmake-build-debug/ccc" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/mac/CLionProjects/ccc/cmake-build-debug"/>
+				<Option output="/Users/macpro/CLionProjects/ccc/cmake-build-debug/ccc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macpro/CLionProjects/ccc/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 ccc/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 ccc/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/macpro/CLionProjects/ccc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/mac/CLionProjects/ccc/basic/foo.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/basic/foo.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/basic/foo.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/basic/foo.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/basic/lines.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/basic/lines.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/basic/lines.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/basic/lines.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/basic/return.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/basic/return.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/basic/return.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/basic/return.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_1/hello_world.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_1/hello_world.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_1/hello_world.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_1/hello_world.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_2/assignment.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_2/assignment.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_2/assignment.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_2/assignment.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_3/function_basic.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_3/function_basic.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_3/function_basic.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_3/function_basic.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/factorial.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/factorial.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/factorial.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/factorial.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/gcd.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/gcd.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/gcd.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/gcd.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/loop.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/loop.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/loop.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/loop.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/print_day.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/print_day.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/print_day.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/rational.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/rational.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/branch/rational.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/branch/rational.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/if_else_if/get_unit.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_4/if_else_if/get_unit.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_4/if_else_if/get_unit.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_5/circle_area.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_5/circle_area.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_5/circle_area.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_5/circle_area.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_5/is_leap_year.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_5/is_leap_year.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_5/is_leap_year.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/break_continue.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/break_continue.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/break_continue.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/break_continue.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/do_while.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/do_while.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/do_while.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/do_while.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/for_for.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/for_for.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/for_for.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/for_for.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/while.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/while.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/while.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_6/while.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/random.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_8/random.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/random.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/chapter_8/random.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/main.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/main.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/struct/complex.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/struct/complex.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/struct/complex.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/struct/complex.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/struct/complex2.c">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/struct/complex2.c">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/struct/complex2.h">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/struct/complex2.h">
 			<Option target="ccc"/>
 		</Unit>
-		<Unit filename="/Users/mac/CLionProjects/ccc/CMakeLists.txt">
+		<Unit filename="/Users/macpro/CLionProjects/ccc/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
