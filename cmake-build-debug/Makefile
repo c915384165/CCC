@@ -231,6 +231,33 @@ chapter_1/hello_world.c.s:
 	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_1/hello_world.c.s
 .PHONY : chapter_1/hello_world.c.s
 
+chapter_11/sort.o: chapter_11/sort.c.o
+
+.PHONY : chapter_11/sort.o
+
+# target to build an object file
+chapter_11/sort.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_11/sort.c.o
+.PHONY : chapter_11/sort.c.o
+
+chapter_11/sort.i: chapter_11/sort.c.i
+
+.PHONY : chapter_11/sort.i
+
+# target to preprocess a source file
+chapter_11/sort.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_11/sort.c.i
+.PHONY : chapter_11/sort.c.i
+
+chapter_11/sort.s: chapter_11/sort.c.s
+
+.PHONY : chapter_11/sort.s
+
+# target to generate assembly for a file
+chapter_11/sort.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_11/sort.c.s
+.PHONY : chapter_11/sort.c.s
+
 chapter_2/assignment.o: chapter_2/assignment.c.o
 
 .PHONY : chapter_2/assignment.o
@@ -609,6 +636,60 @@ chapter_6/while.c.s:
 	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_6/while.c.s
 .PHONY : chapter_6/while.c.s
 
+chapter_8/array_basic/call.o: chapter_8/array_basic/call.c.o
+
+.PHONY : chapter_8/array_basic/call.o
+
+# target to build an object file
+chapter_8/array_basic/call.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o
+.PHONY : chapter_8/array_basic/call.c.o
+
+chapter_8/array_basic/call.i: chapter_8/array_basic/call.c.i
+
+.PHONY : chapter_8/array_basic/call.i
+
+# target to preprocess a source file
+chapter_8/array_basic/call.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.i
+.PHONY : chapter_8/array_basic/call.c.i
+
+chapter_8/array_basic/call.s: chapter_8/array_basic/call.c.s
+
+.PHONY : chapter_8/array_basic/call.s
+
+# target to generate assembly for a file
+chapter_8/array_basic/call.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.s
+.PHONY : chapter_8/array_basic/call.c.s
+
+chapter_8/multi_dimentional_Array/mda.o: chapter_8/multi_dimentional_Array/mda.c.o
+
+.PHONY : chapter_8/multi_dimentional_Array/mda.o
+
+# target to build an object file
+chapter_8/multi_dimentional_Array/mda.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o
+.PHONY : chapter_8/multi_dimentional_Array/mda.c.o
+
+chapter_8/multi_dimentional_Array/mda.i: chapter_8/multi_dimentional_Array/mda.c.i
+
+.PHONY : chapter_8/multi_dimentional_Array/mda.i
+
+# target to preprocess a source file
+chapter_8/multi_dimentional_Array/mda.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.i
+.PHONY : chapter_8/multi_dimentional_Array/mda.c.i
+
+chapter_8/multi_dimentional_Array/mda.s: chapter_8/multi_dimentional_Array/mda.c.s
+
+.PHONY : chapter_8/multi_dimentional_Array/mda.s
+
+# target to generate assembly for a file
+chapter_8/multi_dimentional_Array/mda.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.s
+.PHONY : chapter_8/multi_dimentional_Array/mda.c.s
+
 chapter_8/random.o: chapter_8/random.c.o
 
 .PHONY : chapter_8/random.o
@@ -636,6 +717,33 @@ chapter_8/random.c.s:
 	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_8/random.c.s
 .PHONY : chapter_8/random.c.s
 
+chapter_9/ex_source.o: chapter_9/ex_source.c.o
+
+.PHONY : chapter_9/ex_source.o
+
+# target to build an object file
+chapter_9/ex_source.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_9/ex_source.c.o
+.PHONY : chapter_9/ex_source.c.o
+
+chapter_9/ex_source.i: chapter_9/ex_source.c.i
+
+.PHONY : chapter_9/ex_source.i
+
+# target to preprocess a source file
+chapter_9/ex_source.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_9/ex_source.c.i
+.PHONY : chapter_9/ex_source.c.i
+
+chapter_9/ex_source.s: chapter_9/ex_source.c.s
+
+.PHONY : chapter_9/ex_source.s
+
+# target to generate assembly for a file
+chapter_9/ex_source.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/chapter_9/ex_source.c.s
+.PHONY : chapter_9/ex_source.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -662,6 +770,33 @@ main.s: main.c.s
 main.c.s:
 	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/main.c.s
 .PHONY : main.c.s
+
+point/learn_point.o: point/learn_point.c.o
+
+.PHONY : point/learn_point.o
+
+# target to build an object file
+point/learn_point.c.o:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/point/learn_point.c.o
+.PHONY : point/learn_point.c.o
+
+point/learn_point.i: point/learn_point.c.i
+
+.PHONY : point/learn_point.i
+
+# target to preprocess a source file
+point/learn_point.c.i:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/point/learn_point.c.i
+.PHONY : point/learn_point.c.i
+
+point/learn_point.s: point/learn_point.c.s
+
+.PHONY : point/learn_point.s
+
+# target to generate assembly for a file
+point/learn_point.c.s:
+	$(MAKE) -f CMakeFiles/ccc.dir/build.make CMakeFiles/ccc.dir/point/learn_point.c.s
+.PHONY : point/learn_point.c.s
 
 struct/complex.o: struct/complex.c.o
 
@@ -738,6 +873,9 @@ help:
 	@echo "... chapter_1/hello_world.o"
 	@echo "... chapter_1/hello_world.i"
 	@echo "... chapter_1/hello_world.s"
+	@echo "... chapter_11/sort.o"
+	@echo "... chapter_11/sort.i"
+	@echo "... chapter_11/sort.s"
 	@echo "... chapter_2/assignment.o"
 	@echo "... chapter_2/assignment.i"
 	@echo "... chapter_2/assignment.s"
@@ -780,12 +918,24 @@ help:
 	@echo "... chapter_6/while.o"
 	@echo "... chapter_6/while.i"
 	@echo "... chapter_6/while.s"
+	@echo "... chapter_8/array_basic/call.o"
+	@echo "... chapter_8/array_basic/call.i"
+	@echo "... chapter_8/array_basic/call.s"
+	@echo "... chapter_8/multi_dimentional_Array/mda.o"
+	@echo "... chapter_8/multi_dimentional_Array/mda.i"
+	@echo "... chapter_8/multi_dimentional_Array/mda.s"
 	@echo "... chapter_8/random.o"
 	@echo "... chapter_8/random.i"
 	@echo "... chapter_8/random.s"
+	@echo "... chapter_9/ex_source.o"
+	@echo "... chapter_9/ex_source.i"
+	@echo "... chapter_9/ex_source.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... point/learn_point.o"
+	@echo "... point/learn_point.i"
+	@echo "... point/learn_point.s"
 	@echo "... struct/complex.o"
 	@echo "... struct/complex.i"
 	@echo "... struct/complex.s"

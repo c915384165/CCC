@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/mac/CLionProjects/ccc/chapter_8/random.c
-random.h
-/Users/mac/CLionProjects/ccc/chapter_8/random.h
+/Users/mac/CLionProjects/ccc/point/learn_point.c
+learn_point.h
+/Users/mac/CLionProjects/ccc/point/learn_point.h
 
-/Users/mac/CLionProjects/ccc/chapter_8/random.h
+/Users/mac/CLionProjects/ccc/point/learn_point.h
 stdio.h
--
-stdlib.h
 -
 

@@ -13,6 +13,9 @@ CMakeFiles/ccc.dir/basic/return.c.o: ../basic/return.h
 CMakeFiles/ccc.dir/chapter_1/hello_world.c.o: ../chapter_1/hello_world.c
 CMakeFiles/ccc.dir/chapter_1/hello_world.c.o: ../chapter_1/hello_world.h
 
+CMakeFiles/ccc.dir/chapter_11/sort.c.o: ../chapter_11/sort.c
+CMakeFiles/ccc.dir/chapter_11/sort.c.o: ../chapter_11/sort.h
+
 CMakeFiles/ccc.dir/chapter_2/assignment.c.o: ../chapter_2/assignment.c
 CMakeFiles/ccc.dir/chapter_2/assignment.c.o: ../chapter_2/assignment.h
 
@@ -55,12 +58,28 @@ CMakeFiles/ccc.dir/chapter_6/for_for.c.o: ../chapter_6/for_for.h
 CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.c
 CMakeFiles/ccc.dir/chapter_6/while.c.o: ../chapter_6/while.h
 
+CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o: ../chapter_8/array_basic/call.c
+CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o: ../chapter_8/array_basic/call.h
+
+CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o: ../chapter_8/multi_dimentional_Array/mda.c
+CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o: ../chapter_8/multi_dimentional_Array/mda.h
+
 CMakeFiles/ccc.dir/chapter_8/random.c.o: ../chapter_8/random.c
 CMakeFiles/ccc.dir/chapter_8/random.c.o: ../chapter_8/random.h
 
+CMakeFiles/ccc.dir/chapter_9/ex_source.c.o: ../chapter_9/ex_source.c
+CMakeFiles/ccc.dir/chapter_9/ex_source.c.o: ../chapter_9/ex_source.h
+
+CMakeFiles/ccc.dir/main.c.o: ../chapter_11/sort.h
 CMakeFiles/ccc.dir/main.c.o: ../chapter_3/function_basic.h
 CMakeFiles/ccc.dir/main.c.o: ../chapter_6/for_for.h
+CMakeFiles/ccc.dir/main.c.o: ../chapter_8/array_basic/call.h
+CMakeFiles/ccc.dir/main.c.o: ../chapter_8/multi_dimentional_Array/mda.h
 CMakeFiles/ccc.dir/main.c.o: ../main.c
+CMakeFiles/ccc.dir/main.c.o: ../point/learn_point.h
+
+CMakeFiles/ccc.dir/point/learn_point.c.o: ../point/learn_point.c
+CMakeFiles/ccc.dir/point/learn_point.c.o: ../point/learn_point.h
 
 CMakeFiles/ccc.dir/struct/complex.c.o: ../struct/complex.c
 CMakeFiles/ccc.dir/struct/complex.c.o: ../struct/complex.h

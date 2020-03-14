@@ -14,6 +14,7 @@
 #include <stdlib.h>
 
 int greatest_common_divisor(int a, int b); // 计算最小公倍数
+int gcd_2(int a, int b);
 
 
 #endif /* gcd_h */

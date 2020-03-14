@@ -343,6 +343,71 @@ CMakeFiles/ccc.dir/chapter_8/random.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_8/random.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_8/random.c -o CMakeFiles/ccc.dir/chapter_8/random.c.s
 
+CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o: CMakeFiles/ccc.dir/flags.make
+CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o: ../chapter_8/multi_dimentional_Array/mda.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o   -c /Users/mac/CLionProjects/ccc/chapter_8/multi_dimentional_Array/mda.c
+
+CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_8/multi_dimentional_Array/mda.c > CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.i
+
+CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_8/multi_dimentional_Array/mda.c -o CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.s
+
+CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o: CMakeFiles/ccc.dir/flags.make
+CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o: ../chapter_8/array_basic/call.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o   -c /Users/mac/CLionProjects/ccc/chapter_8/array_basic/call.c
+
+CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_8/array_basic/call.c > CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.i
+
+CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_8/array_basic/call.c -o CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.s
+
+CMakeFiles/ccc.dir/chapter_9/ex_source.c.o: CMakeFiles/ccc.dir/flags.make
+CMakeFiles/ccc.dir/chapter_9/ex_source.c.o: ../chapter_9/ex_source.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/ccc.dir/chapter_9/ex_source.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_9/ex_source.c.o   -c /Users/mac/CLionProjects/ccc/chapter_9/ex_source.c
+
+CMakeFiles/ccc.dir/chapter_9/ex_source.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_9/ex_source.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_9/ex_source.c > CMakeFiles/ccc.dir/chapter_9/ex_source.c.i
+
+CMakeFiles/ccc.dir/chapter_9/ex_source.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_9/ex_source.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_9/ex_source.c -o CMakeFiles/ccc.dir/chapter_9/ex_source.c.s
+
+CMakeFiles/ccc.dir/chapter_11/sort.c.o: CMakeFiles/ccc.dir/flags.make
+CMakeFiles/ccc.dir/chapter_11/sort.c.o: ../chapter_11/sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/ccc.dir/chapter_11/sort.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/chapter_11/sort.c.o   -c /Users/mac/CLionProjects/ccc/chapter_11/sort.c
+
+CMakeFiles/ccc.dir/chapter_11/sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/chapter_11/sort.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/chapter_11/sort.c > CMakeFiles/ccc.dir/chapter_11/sort.c.i
+
+CMakeFiles/ccc.dir/chapter_11/sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/chapter_11/sort.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/chapter_11/sort.c -o CMakeFiles/ccc.dir/chapter_11/sort.c.s
+
+CMakeFiles/ccc.dir/point/learn_point.c.o: CMakeFiles/ccc.dir/flags.make
+CMakeFiles/ccc.dir/point/learn_point.c.o: ../point/learn_point.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/ccc.dir/point/learn_point.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ccc.dir/point/learn_point.c.o   -c /Users/mac/CLionProjects/ccc/point/learn_point.c
+
+CMakeFiles/ccc.dir/point/learn_point.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ccc.dir/point/learn_point.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/mac/CLionProjects/ccc/point/learn_point.c > CMakeFiles/ccc.dir/point/learn_point.c.i
+
+CMakeFiles/ccc.dir/point/learn_point.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ccc.dir/point/learn_point.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/mac/CLionProjects/ccc/point/learn_point.c -o CMakeFiles/ccc.dir/point/learn_point.c.s
+
 # Object files for target ccc
 ccc_OBJECTS = \
 "CMakeFiles/ccc.dir/main.c.o" \
@@ -366,7 +431,12 @@ ccc_OBJECTS = \
 "CMakeFiles/ccc.dir/chapter_6/do_while.c.o" \
 "CMakeFiles/ccc.dir/chapter_6/break_continue.c.o" \
 "CMakeFiles/ccc.dir/chapter_6/for_for.c.o" \
-"CMakeFiles/ccc.dir/chapter_8/random.c.o"
+"CMakeFiles/ccc.dir/chapter_8/random.c.o" \
+"CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o" \
+"CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o" \
+"CMakeFiles/ccc.dir/chapter_9/ex_source.c.o" \
+"CMakeFiles/ccc.dir/chapter_11/sort.c.o" \
+"CMakeFiles/ccc.dir/point/learn_point.c.o"
 
 # External object files for target ccc
 ccc_EXTERNAL_OBJECTS =
@@ -393,9 +463,14 @@ ccc: CMakeFiles/ccc.dir/chapter_6/do_while.c.o
 ccc: CMakeFiles/ccc.dir/chapter_6/break_continue.c.o
 ccc: CMakeFiles/ccc.dir/chapter_6/for_for.c.o
 ccc: CMakeFiles/ccc.dir/chapter_8/random.c.o
+ccc: CMakeFiles/ccc.dir/chapter_8/multi_dimentional_Array/mda.c.o
+ccc: CMakeFiles/ccc.dir/chapter_8/array_basic/call.c.o
+ccc: CMakeFiles/ccc.dir/chapter_9/ex_source.c.o
+ccc: CMakeFiles/ccc.dir/chapter_11/sort.c.o
+ccc: CMakeFiles/ccc.dir/point/learn_point.c.o
 ccc: CMakeFiles/ccc.dir/build.make
 ccc: CMakeFiles/ccc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable ccc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mac/CLionProjects/ccc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking C executable ccc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ccc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

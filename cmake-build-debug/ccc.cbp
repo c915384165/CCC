@@ -102,6 +102,12 @@
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_1/hello_world.h">
 			<Option target="ccc"/>
 		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_11/sort.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_11/sort.h">
+			<Option target="ccc"/>
+		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_2/assignment.c">
 			<Option target="ccc"/>
 		</Unit>
@@ -186,13 +192,37 @@
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_6/while.h">
 			<Option target="ccc"/>
 		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/array_basic/call.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/array_basic/call.h">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/multi_dimentional_Array/mda.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/multi_dimentional_Array/mda.h">
+			<Option target="ccc"/>
+		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/random.c">
 			<Option target="ccc"/>
 		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_8/random.h">
 			<Option target="ccc"/>
 		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_9/ex_source.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/chapter_9/ex_source.h">
+			<Option target="ccc"/>
+		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/main.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/point/learn_point.c">
+			<Option target="ccc"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/ccc/point/learn_point.h">
 			<Option target="ccc"/>
 		</Unit>
 		<Unit filename="/Users/mac/CLionProjects/ccc/struct/complex.c">

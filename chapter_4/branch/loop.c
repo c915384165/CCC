@@ -16,6 +16,7 @@ int factorial_loop(int n)
         n--;
 //        n = n - 1;
     }
+
     return result;
 }
 
@@ -29,6 +30,7 @@ int factorial_do_while(int n)
         result = result * i;
         i = i + 1;
     } while (i <= n);
+
     return result;
 }
 
@@ -40,5 +42,6 @@ int factorial2_do_while(int n)
         i = i + 1;
         result = result * i;
     } while (i < n);
+
     return result;
 }
